@@ -11,3 +11,5 @@ https://sun.eduzz.com/40QDJ6GJWB?cupom=LIVE1DESCOMPLICA
 
 Ferramentas TOTVS
 https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-inteligencia-tributaria/
+
+https://tdn.totvs.com/display/public/PROT/Configurador+de+Tributos+-+Regras+Financeiras

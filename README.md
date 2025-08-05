@@ -8,3 +8,6 @@ https://economiareal.uol.com.br/noticia/tributacao/reforma-tributaria-o-erro-que
 https://sacfiscal.com.br/
 
 https://sun.eduzz.com/40QDJ6GJWB?cupom=LIVE1DESCOMPLICA
+
+Ferramentas TOTVS
+https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-inteligencia-tributaria/

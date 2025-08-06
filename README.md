@@ -16,3 +16,8 @@ https://tdn.totvs.com/display/PROT/CFGTRIB+-+Configurador+de+Tributos
 https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-inteligencia-tributaria/
 
 https://tdn.totvs.com/display/public/PROT/Configurador+de+Tributos+-+Regras+Financeiras
+
+
+1) Webinar TOTVS
+
+https://www.youtube.com/watch?v=uYlG5HI7GHw

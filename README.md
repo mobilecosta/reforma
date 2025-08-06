@@ -10,6 +10,9 @@ https://sacfiscal.com.br/
 https://sun.eduzz.com/40QDJ6GJWB?cupom=LIVE1DESCOMPLICA
 
 Ferramentas TOTVS
+## Link Configurador de Tributos
+https://tdn.totvs.com/display/PROT/CFGTRIB+-+Configurador+de+Tributos
+
 https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-inteligencia-tributaria/
 
 https://tdn.totvs.com/display/public/PROT/Configurador+de+Tributos+-+Regras+Financeiras

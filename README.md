@@ -22,5 +22,7 @@ https://tdn.totvs.com/display/public/PROT/Configurador+de+Tributos+-+Regras+Fina
 
 https://www.youtube.com/watch?v=uYlG5HI7GHw
 
+https://www.youtube.com/watch?v=msMdG2FEe1U
+
 Documentação
 https://www.youtube.com/hashtag/totvs_backoffice_linha_protheus

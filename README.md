@@ -32,3 +32,6 @@ https://www.youtube.com/watch?v=b7TKRPLfMgU
 
 ## User Function
 https://userfunction.com.br/dndr
+
+## Live FabriTech
+https://www.youtube.com/live/YxzzLTl-fdo

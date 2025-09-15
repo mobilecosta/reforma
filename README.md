@@ -35,3 +35,13 @@ https://userfunction.com.br/dndr
 
 ## Live FabriTech
 https://www.youtube.com/live/YxzzLTl-fdo
+
+## Contabilização
+Segue documentação referente a contabilização em relação ao novo configurador de tributos: Adequando a Contabilidade à Reforma Tributária - Linha Microsiga Protheus - TDN
+ 
+Esta documentação possui exemplos de configuração de forma geral, baseado no configurador:
+https://tdn.totvs.com/pages/viewpage.action?pageId=977835821
+ 
+Obs: Caso tenha duvida sobre algum LP especifico, peço que entre em contato com o time de origem, pois cada origem orienta sobre seu processo do contabilização.
+ 
+Peço que valide as informações e caso tenha dúvidas me encontro à disposição.

@@ -38,10 +38,15 @@ https://www.youtube.com/live/YxzzLTl-fdo
 
 ## Contabilização
 Segue documentação referente a contabilização em relação ao novo configurador de tributos: Adequando a Contabilidade à Reforma Tributária - Linha Microsiga Protheus - TDN
- 
+
 Esta documentação possui exemplos de configuração de forma geral, baseado no configurador:
 https://tdn.totvs.com/pages/viewpage.action?pageId=977835821
  
 Obs: Caso tenha duvida sobre algum LP especifico, peço que entre em contato com o time de origem, pois cada origem orienta sobre seu processo do contabilização.
- 
 Peço que valide as informações e caso tenha dúvidas me encontro à disposição.
+
+## Atualizações
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/33208366723607-Cross-Segmentos-Backoffice-Protheus-Doc-Eletr%C3%B4nicos-NFE-Reforma-Tribut%C3%A1ria-Nota-T%C3%A9cnica-2025-002-v-1-10-e-v1-20-IBS-CBS
+
+
+

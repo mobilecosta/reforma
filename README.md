@@ -18,11 +18,13 @@ https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-inteligencia-tributa
 https://tdn.totvs.com/display/public/PROT/Configurador+de+Tributos+-+Regras+Financeiras
 
 
-1) Webinar TOTVS
+## 1) Webinar TOTVS
 
 https://www.youtube.com/watch?v=uYlG5HI7GHw
 
 https://www.youtube.com/watch?v=msMdG2FEe1U
+
+https://www.linkedin.com/posts/talitaliebl_material-dispon%C3%ADvel-os-conte%C3%BAdos-v%C3%ADdeo-activity-7373436447044886529-IKLH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
 Documentação
 https://www.youtube.com/hashtag/totvs_backoffice_linha_protheus

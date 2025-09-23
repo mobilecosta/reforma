@@ -55,6 +55,9 @@ https://www.linkedin.com/posts/rafael-nonato-a44052147_protheus-totvs-configurad
 
 https://centraldeatendimento.totvs.com/hc/pt-br/articles/33208366723607-Cross-Segmentos-Backoffice-Protheus-Doc-Eletr%C3%B4nicos-NFE-Reforma-Tribut%C3%A1ria-Nota-T%C3%A9cnica-2025-002-v-1-10-e-v1-20-IBS-CBS
 
+## Pratica
+https://userfunction.com.br/zd86
+
 https://www.linkedin.com/posts/elis%C3%A2ngela-cristina-damasco-30361a71_reforma-tribut%C3%A1ria-notas-t%C3%A9cnicas-alteram-activity-7374079632901414915-H3-z?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
 https://www.linkedin.com/posts/leonardo-marconi-6a700867_reformatributaerria-totvsprotheus-protheus-activity-7370747181659488256-ekp0?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU

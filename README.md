@@ -62,6 +62,9 @@ https://userfunction.com.br/zd86
 
 https://www.linkedin.com/posts/elis%C3%A2ngela-cristina-damasco-30361a71_reforma-tribut%C3%A1ria-notas-t%C3%A9cnicas-alteram-activity-7374079632901414915-H3-z?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
+## Comercial
+https://www.linkedin.com/posts/ricardo-souza-15a804a1_upduo-reformatributaerria-totvsprotheus-activity-7377325317637496832-oBYd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
+
 https://www.linkedin.com/posts/leonardo-marconi-6a700867_reformatributaerria-totvsprotheus-protheus-activity-7370747181659488256-ekp0?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
 ## Automações

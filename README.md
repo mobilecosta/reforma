@@ -69,3 +69,9 @@ https://www.linkedin.com/posts/leonardo-marconi-6a700867_reformatributaerria-tot
 
 ## Automações
 https://tdn.totvs.com/pages/releaseview.action?pageId=702350590
+
+## Atualizações
+2210: https://r.totvs.io/p/1219161
+2310: https://r.totvs.io/p/1219162
+2410: https://r.totvs.io/p/1219160
+2510: https://r.totvs.io/p/1219163 

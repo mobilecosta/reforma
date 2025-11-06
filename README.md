@@ -67,6 +67,9 @@ https://www.linkedin.com/posts/ricardo-souza-15a804a1_upduo-reformatributaerria-
 
 https://www.linkedin.com/posts/leonardo-marconi-6a700867_reformatributaerria-totvsprotheus-protheus-activity-7370747181659488256-ekp0?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
+## Links Uteis
+https://www.linkedin.com/posts/marcos-bolaina-23149a25a_reformatributaerria-nf-nfc-activity-7391952651543998465-wk02?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
+
 ## Automações
 https://tdn.totvs.com/pages/releaseview.action?pageId=702350590
 

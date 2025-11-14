@@ -4,6 +4,8 @@ https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/julho/receita-fed
 
 https://economiareal.uol.com.br/noticia/tributacao/reforma-tributaria-o-erro-que-pode-impedir-sua-empresa-de-vender-em-2026-674
 
+https://www.cgibs.gov.br/central-de-conteudo
+
 ## Sac Fiscal
 https://sacfiscal.com.br/
 

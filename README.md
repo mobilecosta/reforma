@@ -115,6 +115,8 @@ O foco inicial dessas implementações é a disponibilização dos campos e a vi
 •	Tratamento dos Cálculos: É importante notar que, nesta fase inicial, somente os campos serão disponibilizados. O tratamento e a automação dos cálculos relacionados à CBS e ao IBS serão implementados em um futuro próximo, em fases subsequentes.
  
 Todas as adequações serão feitas no Produto de acordo com o que é determinado pelo governo, a TOTVS segue o cronograma e as entregas ocorrerão conforme previsão para o ano de 2026: https://espacolegislacao.totvs.com/reforma-tributaria/#quando-a-reforma-tributaria-comeca-a-valer
+
+## XML - https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/manuais/reforma-tributaria-do-consumo/20251114-documento-xml-nfe.txt/view
  
 Informamos que a TOTVS é Piloto no programa da Reforma Tributária e todas as obrigações e inovações serão entregas no prazo estipulado.
  

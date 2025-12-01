@@ -79,42 +79,7 @@ https://tdn.totvs.com/pages/releaseview.action?pageId=702350590
 2210: https://r.totvs.io/p/1219161
 2310: https://r.totvs.io/p/1219162
 2410: https://r.totvs.io/p/1219160
-2510: https://r.totvs.io/p/1219163 
-
-## SIGAEIC
-Para os Módulo "SIGAEEC" e "SIGAEIC" as adequações seguem as mesmas regras dos demais Módulos do Protheus: Os recursos da TES que tratam a classificação de uma Nota Fiscal de Importação serão mantidos no Configurador de Tributos e isso está em fase de construção para atender as mudanças previstas para 2026.
- 
-A tratativa com os campos do "IBS" E "CBS" está prevista para sair no Pacote de Expedição Continua de Novembro 2025. Segue a 'Faq" para acompanhamento do tema abordado: (https://tdn.totvs.com/pages/releaseview.action?pageId=941240555).
- 
-Segue abaixo a documentação com relação as entregas do Produto:
-DT DTRADE-11723 Reforma Tributária - Criação dos campos para CBS e IBS - Linha Microsiga Protheus - TDN: https://tdn.totvs.com/pages/viewpage.action?pageId=984979917
- 
-1. Visão Geral das Mudanças:
-As modificações têm como objetivo principal integrar os campos relacionados à CBS e ao IBS em diversas etapas e módulos do sistema, conforme as novas exigências da legislação.
- 
-2. Principais Adequações e Novos Campos:
-•	Nomenclatura Comum do Mercosul (NCM): 
-•	Será realizada uma apresentação dos novos campos referentes à CBS e ao IBS que serão incorporados à NCM.
-•	Cadastro de Despesas: 
-•	Novas despesas associadas à legislação da CBS e do IBS serão adicionadas ao cadastro de despesas.
-•	Recebimento de Importação: 
-•	Os campos de CBS e IBS serão implementados tanto na rotina de recebimento de importação quanto nos itens do processo de importação ("inpe" - presume-se que se refira a uma parte específica do processo de importação).
-•	Porcentagens (Alíquotas e Reduções): 
-•	O sistema exibirá as porcentagens correspondentes às alíquotas e às reduções aplicáveis à CBS e ao IBS.
- 
-3. Resumo das Integrações:
-Em síntese, as alterações visam assegurar que os campos de CBS e IBS estejam presentes e acessíveis em pontos cruciais do processo, incluindo:
-•	NCM: Para classificação fiscal.
-•	Itens DUIMP: Criação dos campos paras a alíquotas.
-•	Cadastro de Despesas: Para registro e controle de custos.
-•	Recebimento de Importação: Para tratamento fiscal de mercadorias importadas.
-O foco inicial dessas implementações é a disponibilização dos campos e a visualização das alíquotas e reduções.
- 
-4. Cronograma de Liberação e Funcionalidades Futuras:
-•	Disponibilidade dos Campos: Estes campos estarão disponíveis no pacote de Expedição Contínua do mês 11/2025.
-•	Tratamento dos Cálculos: É importante notar que, nesta fase inicial, somente os campos serão disponibilizados. O tratamento e a automação dos cálculos relacionados à CBS e ao IBS serão implementados em um futuro próximo, em fases subsequentes.
- 
-Todas as adequações serão feitas no Produto de acordo com o que é determinado pelo governo, a TOTVS segue o cronograma e as entregas ocorrerão conforme previsão para o ano de 2026: https://espacolegislacao.totvs.com/reforma-tributaria/#quando-a-reforma-tributaria-comeca-a-valer
+2510: https://r.totvs.io/p/1219163
 
 ## XML - https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/manuais/reforma-tributaria-do-consumo/20251114-documento-xml-nfe.txt/view
  

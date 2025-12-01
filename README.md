@@ -88,3 +88,5 @@ Informamos que a TOTVS é Piloto no programa da Reforma Tributária e todas as o
 Além disso, foi disponibilizada uma página centralizadora, com todas as informações referentes à Reforma Tributária. Sugerimos acessar por meio do link abaixo:
  
 • Página Central da Reforma Tributária - TOTVS (https://espacolegislacao.totvs.com/reforma-tributaria/)
+
+## Doc - https://www.linkedin.com/posts/rafael-nonato-a44052147_24655640-dsertss1-28249-dt-protheus-tags-activity-7398735364984668160-EVz3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU

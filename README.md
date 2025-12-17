@@ -89,4 +89,5 @@ Além disso, foi disponibilizada uma página centralizadora, com todas as inform
  
 • Página Central da Reforma Tributária - TOTVS (https://espacolegislacao.totvs.com/reforma-tributaria/)
 
+## Resumo - https://www.totvs.com/blog/fiscal-clientes/reforma-tributaria-versao-1-33-da-nt-2025-002-flexibiliza-validacoes-em-2026/
 ## Doc - https://www.linkedin.com/posts/rafael-nonato-a44052147_24655640-dsertss1-28249-dt-protheus-tags-activity-7398735364984668160-EVz3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU

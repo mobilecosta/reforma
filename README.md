@@ -81,6 +81,25 @@ https://tdn.totvs.com/pages/releaseview.action?pageId=702350590
 2410: https://r.totvs.io/p/1219160
 2510: https://r.totvs.io/p/1219163
 
+🔹 Pacotes para aplicação no TSS
+📦 Versão 12.1.2410 : https://lnkd.in/eqAPZEGv
+📦 Versão 12.1.2510: https://lnkd.in/e5Bm6asX
+
+🔹 Pacotes para aplicação no Protheus
+📦 Versão 12.1.2410: https://lnkd.in/edgqYigb
+📦 Versão 12.1.2510: https://lnkd.in/ev9hDK-G
+
+🔹 Pacotes específicos para geração das TAGs de IBS e CBS no Protheus e RDMAKE:
+📦 Versão 12.1.2410: https://lnkd.in/eQJX6Tgb
+📦 Versão 12.1.2510 https://lnkd.in/e4a-Gh7s
+
+✅ Após a aplicação de todos os pacotes na ordem apresentada, o ambiente já estará apto para a transmissão das NFS e ao Ambiente Nacional, atendendo às exigências da Reforma Tributária. (Lembrem-se que é necessária toda adequação fiscal e uso do configurador de tributos para geração dos dados no Protheus)
+
+📘 Documentações oficiais de apoio
+🔗 https://lnkd.in/eCjG2UvY
+🔗 https://lnkd.in/ecwF28AG
+🔗 https://lnkd.in/exZFjC-n
+
 ## XML - https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/manuais/reforma-tributaria-do-consumo/20251114-documento-xml-nfe.txt/view
  
 Informamos que a TOTVS é Piloto no programa da Reforma Tributária e todas as obrigações e inovações serão entregas no prazo estipulado.

@@ -90,11 +90,13 @@ https://tdn.totvs.com/pages/releaseview.action?pageId=702350590
 📦 Versão 12.1.2510: https://lnkd.in/e5Bm6asX
 
 🔹 Pacotes para aplicação no Protheus
+
 📦 Versão 12.1.2410: https://lnkd.in/edgqYigb
 
 📦 Versão 12.1.2510: https://lnkd.in/ev9hDK-G
 
 🔹 Pacotes específicos para geração das TAGs de IBS e CBS no Protheus e RDMAKE:
+
 📦 Versão 12.1.2410: https://lnkd.in/eQJX6Tgb
 
 📦 Versão 12.1.2510 https://lnkd.in/e4a-Gh7s

@@ -6,6 +6,10 @@ https://economiareal.uol.com.br/noticia/tributacao/reforma-tributaria-o-erro-que
 
 https://www.cgibs.gov.br/central-de-conteudo
 
+## IA
+
+https://github.com/DeHor-Labs/mcp-fiscal-brasil
+
 ## Sac Fiscal
 https://sacfiscal.com.br/
 
